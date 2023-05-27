@@ -1,0 +1,8 @@
+{
+  "name": "mdev-1012-week3",
+  "version": "0.0.1",
+  "description": "Demo site for MDEV1012 in summer 2023 at Georgian college ",
+  "main": "index.js",
+  "author": "Gurwinder Singh",
+  "license": "MIT"
+}
